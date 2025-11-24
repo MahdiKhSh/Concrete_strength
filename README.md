@@ -1,6 +1,6 @@
 <p align="center">
 
-  <h1 align="center"> Interpretable Hybrid Learning Model for Predicting Compressive Strength of Sustainable Pumice-Concrete Mixtures</h1>
+  <h1 align="center"> Interpretable Hybrid Learning Model for Predicting Compressive Strength of Sustainable Pumice-Concrete Mixtures </h1>
 
 
 ## Installation
